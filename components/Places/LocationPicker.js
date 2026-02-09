@@ -36,5 +36,7 @@ const styles = StyleSheet.create({
   },
   actions: {
     flexDirection: 'row',
+    justifyContent: 'space-around',
+    alignItems: 'center',
   },
 });
